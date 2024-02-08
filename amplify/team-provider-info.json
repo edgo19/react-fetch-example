@@ -1,0 +1,21 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "PermissionsBoundaryPolicyArn": "arn:aws:iam::112372785193:policy/NokiaBoundary",
+      "AuthRoleName": "amplify-reactfetchexample-dev-153739-authRole",
+      "UnauthRoleArn": "arn:aws:iam::112372785193:role/amplify-reactfetchexample-dev-153739-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::112372785193:role/amplify-reactfetchexample-dev-153739-authRole",
+      "Region": "us-east-1",
+      "DeploymentBucketName": "amplify-reactfetchexample-dev-153739-deployment",
+      "UnauthRoleName": "amplify-reactfetchexample-dev-153739-unauthRole",
+      "StackName": "amplify-reactfetchexample-dev-153739",
+      "StackId": "arn:aws:cloudformation:us-east-1:112372785193:stack/amplify-reactfetchexample-dev-153739/e95cb9a0-c6c1-11ee-8a8b-0acda206d509",
+      "AmplifyAppId": "d1vv43xwsgnr4"
+    },
+    "categories": {
+      "auth": {
+        "reactfetchexample11eb4ecf": {}
+      }
+    }
+  }
+}
